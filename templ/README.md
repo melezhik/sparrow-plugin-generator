@@ -34,9 +34,9 @@ If you need some automation:
 
 # Author
 
-* The author of main script is [%author%](%url%)
+* The author of %item% tool is [@%author%](https://github.com/%author%)
 
-* The plugin maintainer is [Alexey Melezhik](https://github.com/melezhik/)
+* The sparrow plugin maintainer is [Alexey Melezhik](https://github.com/melezhik)
 
 
 

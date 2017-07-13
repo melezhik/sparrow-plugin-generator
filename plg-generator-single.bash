@@ -1,6 +1,6 @@
-item=$1
-url=$2
-author=$3
+item=$(basename $PWD)
+url=$1
+author=$2
 
 
 cp -v /home/melezhik/projects/sparrow-plugin-generator/templ/* . 

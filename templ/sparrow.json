@@ -4,4 +4,6 @@
   "version" : "0.0.1",
   "url" : "%url%",
   "category": "utilities"
+  "python_version" : 2,
+  "sparrow_version": "0.2.45"
 }
