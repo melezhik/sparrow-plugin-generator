@@ -32,7 +32,7 @@ If you need some automation:
 
     $ sparrow task run utils/$task-name
 
-# Author
+# Authors
 
 * The author of %item% tool is [@%author%](https://github.com/%author%)
 
