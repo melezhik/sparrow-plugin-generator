@@ -1,0 +1,7 @@
+{
+  "name" : "%item%",
+  "description" : "Simple wrapper for %item% from %url%",
+  "version" : "0.0.1",
+  "url" : "%url%",
+  "category": "utilities"
+}
