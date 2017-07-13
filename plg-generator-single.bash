@@ -8,3 +8,4 @@ perl -i -p -e "s{%item%}[$item]g" story.bash README.md sparrow.json
 perl -i -p -e "s{%url%}[$url]g" story.bash README.md sparrow.json
 perl -i -p -e "s{%author%}[$author]g" story.bash README.md sparrow.json
 
+echo $item > requirements.txt
