@@ -2,7 +2,7 @@
   "name" : "%item%",
   "description" : "Simple wrapper for %item% from %url%",
   "version" : "0.0.1",
-  "url" : "%url%",
+  "url" : "https://github.com/melezhik/sparrow-plugins/tree/master/%item%",
   "category": "utilities",
   "python_version" : 2,
   "sparrow_version": "0.2.45"

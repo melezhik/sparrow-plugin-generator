@@ -1,0 +1,1 @@
+perl -i -p -e "s{utilities\"}{utilities\",\n  \"sparrow_version\" : \"0.2.47\",\n  \"doc\" : \"sparrow.md\"}" cheat/sparrow.json
